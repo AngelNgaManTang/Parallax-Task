@@ -1,0 +1,26 @@
+{
+  "name": "parallax-trial",
+  "version": "1.0.0",
+  "description": "Zicket Home Page Trial Task",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node-sass sass/style.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelNgaManTang/Parallax-Trial.git"
+  },
+  "author": "Angel Tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelNgaManTang/Parallax-Trial/issues"
+  },
+  "homepage": "https://github.com/AngelNgaManTang/Parallax-Trial#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  },
+  "dependencies": {
+    "swiper": "^8.4.4"
+  }
+}
